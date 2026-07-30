@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sangat-Singh/Leetcode/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Sangat-Singh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sangat-Singh/Leetcode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Sangat-Singh/Leetcode/tree/master/0260-single-number-iii) |
 | [0704-binary-search](https://github.com/Sangat-Singh/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sangat-Singh/Leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Sangat-Singh/Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
