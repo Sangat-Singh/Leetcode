@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sangat-Singh/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sangat-Singh/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sangat-Singh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sangat-Singh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sangat-Singh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sangat-Singh/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sangat-Singh/Leetcode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sangat-Singh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sangat-Singh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sangat-Singh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
