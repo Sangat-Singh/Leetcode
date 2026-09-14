@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sangat-Singh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sangat-Singh/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sangat-Singh/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
