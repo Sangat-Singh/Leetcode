@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sangat-Singh/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sangat-Singh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sangat-Singh/Leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Sangat-Singh/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sangat-Singh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sangat-Singh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sangat-Singh/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sangat-Singh/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sangat-Singh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sangat-Singh/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sangat-Singh/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sangat-Singh/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
